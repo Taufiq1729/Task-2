@@ -195,4 +195,4 @@ Internship/
 4. **Toggle themes** - Switch between light and dark modes
 5. **Test responsiveness** - Resize your browser window
 
-This project demonstrates intermediate to advanced web development skills and serves as a comprehensive portfolio piece showcasing modern web technologies and best practices.
+
